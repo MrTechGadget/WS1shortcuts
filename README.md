@@ -6,7 +6,7 @@ Report the version of Workspace ONE 
 Look up and take actions on a device by serial number 
 List all Organization Groups and showing details including number of devices, users, admins. 
 
-Installation
+## Installation
 
 Shortcuts app - Available in iOS 12+ 
 https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8 
