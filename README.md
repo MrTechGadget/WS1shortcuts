@@ -19,8 +19,8 @@ The following shortcuts will prompt you to select the WS1 Config shortcut
 WS1 Device Lookup - Takes a serial number as input, shows some details of the device, then offers actions to complete (Query, Lock, Send Message, Clear Passcode, Reboot Device, Enterprise Wipe, and Full Wipe) 
 https://www.icloud.com/shortcuts/715c60b2ac6540a480b98cd4127c4bbc
 
-WS1 Version - Checks the current version of the Workspace ONE UEM Console. Can be activated by saying "Hey Siri, what AirWatch Version?" 
-https://www.icloud.com/shortcuts/b7c866afc3f64771af318626922d5e84 
+WS1 Version - Checks the current version of the Workspace ONE UEM Console. Can be activated by saying "Hey Siri, what AirWatch Version?"  
+https://www.icloud.com/shortcuts/bd50db6b09c24e2992dd0bcd8eb2682f
 
 WS1 Organization Groups - Lists all Organization Groups and tap on one to show details about that Group 
 https://www.icloud.com/shortcuts/8bdaefdf02ed4ba48734cfef8c5c2294 
