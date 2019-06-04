@@ -1,3 +1,4 @@
+
 # WS1shortcuts
 Workspace ONE UEM Shortcuts for Siri Shortcuts App
 
@@ -23,5 +24,4 @@ WS1 Version - Checks the current version of the Workspace ONE UEM Console. Can 
 https://www.icloud.com/shortcuts/bd50db6b09c24e2992dd0bcd8eb2682f
 
 WS1 Organization Groups - Lists all Organization Groups and tap on one to show details about that Group 
-https://www.icloud.com/shortcuts/8bdaefdf02ed4ba48734cfef8c5c2294 
- 
+https://www.icloud.com/shortcuts/29e9a82182f147028e4fb8e5d5fdf114
