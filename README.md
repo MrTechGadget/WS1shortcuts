@@ -2,9 +2,9 @@
 Workspace ONE UEM Shortcuts for Siri Shortcuts App
 
 The following Shortcuts are for interacting with Workspace ONE UEM (formerly AirWatch) to: 
-Report the version of Workspace ONE 
-Look up and take actions on a device by serial number 
-List all Organization Groups and showing details including number of devices, users, admins. 
+- Report the version of Workspace ONE 
+- Look up and take actions on a device by serial number 
+- List all Organization Groups and showing details including number of devices, users, admins. 
 
 ## Installation
 
