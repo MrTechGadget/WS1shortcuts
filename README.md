@@ -12,7 +12,7 @@ Shortcuts app - Available in iOS 12+ 
 https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8 
 
 WS1 Config - Central Config shortcut that prompts for User/Pass, API key, and server name which is used for the remainder of the Shortcuts 
-https://www.icloud.com/shortcuts/79caf863ac8e4ddab621322f99618737 
+https://www.icloud.com/shortcuts/faa59e29132f4d80bb7a51c5f389534f
 
 The following shortcuts will prompt you to select the WS1 Config shortcut
 
