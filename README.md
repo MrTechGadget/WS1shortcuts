@@ -14,7 +14,8 @@ https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8 
 WS1 Config - Central Config shortcut that prompts for User/Pass, API key, and server name which is used for the remainder of the Shortcuts 
 https://www.icloud.com/shortcuts/79caf863ac8e4ddab621322f99618737 
 
-The following shortcuts will prompt you to select the WS1 Config shortcut   
+The following shortcuts will prompt you to select the WS1 Config shortcut
+
 WS1 Device Lookup - Takes a serial number as input, shows some details of the device, then offers actions to complete (Query, Lock, Send Message, Clear Passcode, Reboot Device, Enterprise Wipe, and Full Wipe) 
 https://www.icloud.com/shortcuts/715c60b2ac6540a480b98cd4127c4bbc
 
