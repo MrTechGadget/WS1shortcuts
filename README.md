@@ -12,8 +12,12 @@ The following Shortcuts are for interacting with Workspace ONE UEM (formerly Air
 Shortcuts app - Available in iOS 12+ 
 https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8 
 
+With iOS 13, you now have to "Allow Untrusted Shortcuts" in order to share or install shortcuts outside the gallery.
+Go to Settings... Scroll down to Shortcuts... enable "Allow Untrusted Shortcuts" under Sharing Security.
+
 WS1 Config - Central Config shortcut that prompts for User/Pass, API key, and server name which is used for the remainder of the Shortcuts 
 https://www.icloud.com/shortcuts/faa59e29132f4d80bb7a51c5f389534f
+
 
 The following shortcuts will prompt you to select the WS1 Config shortcut
 
